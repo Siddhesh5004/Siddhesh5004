@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Siddhesh</h1>
-<h3 align="center">An enthusiastic web developer from India, dedicated to creating awesome online experiences.</h3>
+<h3 align="center">An enthusiastic web developer from India, dedicated to create awesome online experiences.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddhesh5004&label=Profile%20views&color=0e75b6&style=flat" alt="siddhesh5004" /> </p>
 
